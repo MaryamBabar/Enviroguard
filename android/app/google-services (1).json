@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1014119482358",
+    "project_id": "enviroguard-e6d45",
+    "storage_bucket": "enviroguard-e6d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014119482358:android:b828034734083424a0fdd7",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014119482358-i93pdkhehra8h4fkrpoqdfpsk5eavkkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIck3q2Bg69F1FcMwEzlpWM9U6S8VTfGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014119482358-1uml13bdtjqq54bacrb5f6a16tjpdrbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014119482358:android:e51c241cc6945794a0fdd7",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014119482358-i93pdkhehra8h4fkrpoqdfpsk5eavkkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIck3q2Bg69F1FcMwEzlpWM9U6S8VTfGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014119482358-1uml13bdtjqq54bacrb5f6a16tjpdrbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
